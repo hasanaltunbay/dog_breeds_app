@@ -1,16 +1,13 @@
-# dog_breeds_app
+<h3>Screenshots</h3>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src=https://github.com/hasanaltunbay/dog_breeds_app/assets/132913817/3659c136-b057-45be-aef5-1a738626a166 width="200" height="400" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src=https://github.com/hasanaltunbay/dog_breeds_app/assets/132913817/fb5d9427-bd77-4c84-8dae-d45445d77bc2 width="200" height="400" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src=https://github.com/hasanaltunbay/dog_breeds_app/assets/132913817/fce324ab-eb9f-404d-bc85-3073cd8cd5e8 width="200" height="400" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src=https://github.com/hasanaltunbay/dog_breeds_app/assets/132913817/68f2025b-207f-4931-94ad-1fcc578859e3 width="200" height="400" />
+
+<img src=https://github.com/hasanaltunbay/dog_breeds_app/assets/132913817/6bbdcde5-1ada-425c-aab7-78dadec1f9a6 width="200" height="400" />
