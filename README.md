@@ -13,6 +13,6 @@
 <img src=https://github.com/hasanaltunbay/dog_breeds_app/assets/132913817/6bbdcde5-1ada-425c-aab7-78dadec1f9a6 width="200" height="400" />
 
 
-<h3>Architecture and Technologies</h3>
+<h3>Technologies</h3>
 
 API: In the context of our application, the API section enables fetching data from the internet.
