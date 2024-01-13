@@ -15,4 +15,4 @@
 
 <h3>Architecture and Technologies</h3>
 
-API: In the context of our application, the API section facilitates the retrieval of data from the internet.
+API: In the context of our application, the API section enables fetching data from the internet.
